@@ -1,4 +1,16 @@
 # Publications #
+
+## Sections ##
+[Peer Reviewed Articles and Book Chapters](#peer_reviewed_articles_and_book_chapters)
+
+[Conference Presentations](#conference-presentations)
+
+[Reports (Selected)](#reports--selected-)
+
+[Manuals (Selected)](#manuals--selected-)
+
+[Theses](#theses)
+
 ## Peer Reviewed Articles and Book Chapters ##
 Ward-Caviness, Cavin K., William E. Kraus, Colette Blach, 
 Carol S. Haynes, Elaine Dowdy, Marie Lynn Miranda, et al. 2018. 
@@ -10,7 +22,12 @@ Volume 38, Issue 1 pages 275-282.
 
 Eiselea, AP, S Mukerjee, LA Smith, ED Thomas, D Whitaker, K Oliver, T Wu, et al. (2016) Volatile Organic Compounds at Two Oil and Natural Gas Production Well Pads in Colorado and Texas Using Passive Samplers. Journal of the Air & Waste Management Association 66(4): 412-419. doi:10.1080/10962247.2016.1141808.
 
-Ward-Caviness, C, WE Kraus, C Blach, C Haynes, E Dowdy, ML Miranda, R Devlin, et al. (2015) Association of Traffic-Related Air Pollution with Fasting Plasma Glucose and Metabolic Risk Factors for Cardiovascular Disease. Environmental Health Perspectives, Advanced Publication (2015/03/15), http://dx.doi.org/10.1289/ehp.1306980.
+Ward-Caviness, C, WE Kraus, C Blach, C Haynes, E Dowdy, 
+ML Miranda, R Devlin, et al. (2015) [Association of Traffic-Related 
+Air Pollution with Fasting Plasma Glucose and Metabolic Risk Factors 
+for Cardiovascular Disease](https://ehp.niehs.nih.gov/doi/10.1289/ehp.1306980). 
+Environmental Health Perspectives Volume 123, Issue 10 Pages 1007 - 1014. 
+http://dx.doi.org/10.1289/ehp.1306980.
 
 Mukerjee, S, L Smith, H Brantley, C Stallings, L Neas, S Kimbrough, and R Williams. 2015. Comparison of Modeled Traffic Exposure Zones Using On-Road Air Pollution Measurements. Atmospheric Pollution Research 6: 82–87. doi:10.5094/APR.2015.010.
 
@@ -24,7 +41,12 @@ Mukerjee, Shaibal, Luther A Smith, Mary M Johnson, Lucas M Neas, and Casson A St
 
 Smith, Luther A, Thomas H Stock, Kuenja C Chung, Shaibal Mukerjee, Xiaojuan L Liao, Casson Stallings, and Masoud Afshar. Spatial Analysis of Volatile Organic Compounds From a Community-Based Air Toxics Monitoring Network In Deer Park, Texas, USA. Environmental Monitoring and Assessment 128, no. 1–3 (2007): 369–79. doi:10.1007/s10661-006-9320-8.
 
-Zartarian, Valerie G, Jianping Xue, Halûk Özkaynak, Winston Dang, Graham Glen, Luther Smith, and Casson Stallings. 2006. A Probabilistic Arsenic Exposure Assessment for Children Who Contact CCA-Treated Playsets and Decks, Part 1: Model Methodology, Variability Results, and Model Evaluation. Risk Analysis 26, no. 2: 515–31. doi:10.1111/j.1539-6924.2006.00747.x.
+Zartarian, Valerie G, Jianping Xue, Halûk Özkaynak, Winston Dang, 
+Graham Glen, Luther Smith, and Casson Stallings. 2006. 
+A Probabilistic Arsenic Exposure Assessment for Children Who Contact 
+CCA-Treated Playsets and Decks, Part 1: Model Methodology, Variability 
+Results, and Model Evaluation. Risk Analysis 26, no. 2: 515–31. 
+doi:10.1111/j.1539-6924.2006.00747.x.
 
 Xue, Jianping, Valerie G Zartarian, Halûk Özkaynak, Winston Dang, Graham Glen, Luther Smith, and Casson Stallings. 2006. A Probabilistic Arsenic Exposure Assessment for Children Who Contact Chromated Copper Arsenate (CCA)-Treated Playsets and Decks, Part 2: Sensitivity and Uncertainty Analyses. Risk Analysis 26, no. 2: 533–41. doi:10.1111/j.1539-6924.2006.00748.x.
 
@@ -47,7 +69,7 @@ Ward-Caviness, Cavin, Neas Lucas, Shaibal Mukherjee, Luther Smith, Casson Stalli
 
 Ward-Caviness, C, L Neas, S Mukerjee, L Smith, C Stallings, C Haynes, C Blach, et al. 2012. Mobile Source Air Pollution Is Associated With Several Cardiopulmonary Outcomes In a Large Cardiac Catheterization Cohort. In American Throasic Society 2012 Meeting. American Throacic Society.
 
-Johnson, MM, L M Neas, S Mukerjee, L Smith, and C Stallings. 2006. Traffic-Related Air Pollution and Children’s Respiratory Health: Beyond Proximity to Major Roadways. Presentation presented at the Joint Meeting of Int. Soc. of Exposure Analysis and Int. Soc. of Environmental Epidemiology, Paris, France, September. http://journals.lww.com/epidem/Fulltext/2006/11001/TrafficrelatedAirPollutionandChildrens.1285.aspx.
+Johnson, MM, L M Neas, S Mukerjee, L Smith, and C Stallings. 2006. Traffic-Related Air Pollution and Children’s Respiratory Health: Beyond Proximity to Major Roadways. Presented at the Joint Meeting of Int. Soc. of Exposure Analysis and Int. Soc. of Environmental Epidemiology, Paris, France, September. http://journals.lww.com/epidem/Fulltext/2006/11001/TrafficrelatedAirPollutionandChildrens.1285.aspx.
 
 Johnson, MM, L Smith, S Mukerjee, R Williams, E Hudgens, C Stallings, H Özkaynak, A Vette, C Croghan, and L Neas. 2008. Evaluation of Land-Use Regression Models in Detroit, Michigan. Poster presented at the Joint Meeting of Int. Soc. of Exposure Analysis and Int. Soc. of Environmental Epidemiology, Pasadena, CA, October.
 
@@ -57,13 +79,25 @@ Mukerjee, Shaibal, Luther Smith, Xiaojuan Liao, Casson Stallings, and Mary Johns
 
 Johnson, I, E Hudgens, B Heidenfelder, L Smith, S Mukerjee, C Stallings, R Hamilton, L Neas, H Özkaynak, and J Gallagher. 2008. Traffic-Related Air Pollution And Circulating Levels of Total and Allergen-Specific IgE Among Children In Detroit, Michigan. presented at the Joint Meeting of Int. Soc. of Exposure Analysis and Int. Soc. of Environmental Epidemiology, Columbia, SC, October.
 
-Zartarian, VG, J Xue, H Ozkaynak, W Dang, G Glen, L Smith, and C Stallings. 2003. A Probabilistic Exposure Assessment for Children Who Contact CCA Treated Playsets and Decks Using the Stochastic Human Exposure and Dose Simulation Model for the Wood Preservative Exposure Scenario (SHEDS-Wood). Presentation presented at the FIFRA Scientific Advisory Panel Meeting, Arlington, VA, December.
+Zartarian, VG, J Xue, H Ozkaynak, W Dang, G Glen, L Smith, and C Stallings. 2003. 
+A Probabilistic Exposure Assessment for Children Who Contact CCA 
+Treated Playsets and Decks Using the Stochastic Human Exposure and 
+Dose Simulation Model for the Wood Preservative Exposure Scenario 
+(SHEDS-Wood). Presented at the FIFRA Scientific Advisory 
+Panel Meeting, Arlington, VA, December.
 
-Smith, L, S Mukerjee, G Norris, M Gonzales, C Stallings, L Neas, and H Ozkaynak. 2003. Prediction of Fine Particulate Levels at Unmonitored Locations. Presentation presented at the Annual AAAR Conference Proceedings, Anaheim CA, October.
+Smith, L, S Mukerjee, G Norris, M Gonzales, C Stallings, L Neas, and H Ozkaynak. 2003. Prediction of Fine Particulate Levels at Unmonitored Locations. Presented at the Annual AAAR Conference Proceedings, Anaheim CA, October.
 
-Zartarian, Valerie G, Haluk Ozkaynak, Jianping Xue, Luther A Smith, and Casson Stallings. 2002. Stochastic Human Exposure and Dose Simulation Model (SHEDS): System Operation Review of a Scenario Specific Model (SHEDS-Wood) to Estimate Children’s Exposure and Dose to Wood Preservatives from Treated Playsets and Residential Decks Using EPA’s SHEDS Probabilistic Model. Presentation presented at the FIFRA Scientific Advisory Panel Meeting, Arlington, VA, August.
+Zartarian, Valerie G, Haluk Ozkaynak, Jianping Xue, Luther A Smith, 
+and Casson Stallings. 2002. [Stochastic Human Exposure and Dose 
+Simulation Model (SHEDS): System Operation Review of a Scenario 
+Specific Model (SHEDS-Wood) to Estimate Children’s Exposure and Dose 
+to Wood Preservatives from Treated Playsets and Residential Decks 
+Using EPA’s SHEDS Probabilistic Model](https://archive.epa.gov/scipoly/sap/meetings/web/pdf/minutes.pdf).
+Presented at the FIFRA Scientific Advisory Panel Meeting, SAP Meeting 
+Minutes No. 2002-06. Arlington, VA, August.
 
-Zartarian, Valerie G, Jianping Xue, Haluk Ozkaynak, Graham Glen, Luther Smith, and Casson Stallings. 2002. Modeling Activities Addressing National Issues: Aggregate Exposure Model Comparison Workshop. Presentation presented at the Peer Review of NERL’s Human Exposure UPA Modeling Program, Arlington, VA, July.
+Zartarian, Valerie G, Jianping Xue, Haluk Ozkaynak, Graham Glen, Luther Smith, and Casson Stallings. 2002. Modeling Activities Addressing National Issues: Aggregate Exposure Model Comparison Workshop. Presented at the Peer Review of NERL’s Human Exposure UPA Modeling Program, Arlington, VA, July.
 
 Zartarian, Valerie G, Haluk Ozkaynak, Jianping Xue, Luther Smith, Graham Glen, and Casson Stallings. 2001. Stochastic Human Exposure and Dose Simulation Model for Pesticides (SHEDS-Pesticides): Model Overview and Scenario Outputs. Paper presented at the EPA/Industry-Sponsored Workshop for the Aggregate Residential Model Comparison, Charlelston, SC, October.
 
@@ -109,9 +143,9 @@ Stallings, C, and M Smolen. 1990. Modeling Nutrient and Sediment Export Using a 
 
 Collins, Donald J, Dale A Kiefer, Casson Stallings, Wei-L Yang, and Janice B SooHoo. 1988. The Remote Sensing of Oceanic Primary Production. In Proceedings of the Remote Sensing of Atmosphere and Oceans. Vol. Paper No. 52. Canberra, Australia.
 
-Stallings, Casson, Donald J Collins, and Dale A Kiefer. 1988a. The Seasonal Cycle of Production in the Gulf of California from Satellite Imagery. Presentation presented at the 1988 Joint Oceanographic Assembly, Acapulco, Mexico.
+Stallings, Casson, Donald J Collins, and Dale A Kiefer. 1988a. The Seasonal Cycle of Production in the Gulf of California from Satellite Imagery. Presented at the 1988 Joint Oceanographic Assembly, Acapulco, Mexico.
 
-Stallings, Casson. 1988b. Comparison of Satellite Derived Primary Production Imagery with Historical Measurements in the Gulf of California. Presentation presented at the ASLO-88.
+Stallings, Casson. 1988b. Comparison of Satellite Derived Primary Production Imagery with Historical Measurements in the Gulf of California. Presented at the ASLO-88.
 
 Collins, Donald J, C Rockwell Booth, Curtiss O Davis, Dale A Kiefer, and Casson Stallings. 1988. A Model of The Photosynthetically Available and Usable Irradiance In The Sea. In Proceedings of SPIE, Ocean Optics IX, 0925:87–100. Soc. of Photo-Optical Instrumentation Engineers (SPIE). doi:10.1117/12.945712.
 
@@ -145,23 +179,48 @@ Glen, Graham,  Kristin Isaacs, Melissa Nysewander, Luther Smith, Casson Stalling
 
 Issacs, Kristin, Casson Stallings, Valerie Zartarian, and Graham Glen. 2012. The Stochastic Human Exposure and Dose Simulation Model for Multimedia, Multipathway Chemicals (SHEDS-Multimedia): Residential Module-SHEDS-Residential version 4-User Guide. US EPA, RTP, NC.
 
+Isaacs K., Stallings C., Zartarian V.G., and Glen G. Stochastic Human Exposure 
+and Dose Simulation (SHEDS) Model for Multimedia, Multipathway Chemicals: 
+Version 4 Residential Module. User Guide. Prepared for the 20–22 July 2010 
+EPA FIFRA SAP, Crystal City, VA, 2010.
+
+Isaacs K., Xue J., Stallings C., and Zartarian V.G. Stochastic Human Exposure 
+and Dose Simulation (SHEDS) Model for Multimedia, Multipathway Chemicals: 
+Version 1 SHEDS-Dietary Module User Guide. Prepared for the 20–22 July 2010 
+EPA FIFRA SAP, Crystal City, VA, 2010.
+
 Stallings, Casson, Steven Graham, Graham Glen, and Luther A Smith. 2008. SHEDS AirToxics Users’ and Technical Guide. US EPA.
 
-Stallings, Casson. 2000. NC Pest Risk Mapper Brief User Instructions. Raleigh, NC: North Carolina State University.
+Stallings, Casson, JA Tippett, Graham Glen, and Luther Smith. (2002). 
+CHAD User’s Guide: Extracting Human Activity Information from CHAD on the 
+PC. US Environmental Protection Agency, Research Triangle Park, NC.
+https://www.epa.gov/sites/default/files/2015-02/documents/chad_manual.pdf
 
-Williams, Steven G., Casson Stallings, JohnAnn Shearer, and Alexa J. McKerrow. 2001. Taking Refuge-GAP a Step Further: The GAP Ecosystem Data Explorer Tool in the Roanoke-Tar-Neuse-Cape Fear Ecosystem. The Gap Analysis Bulletin 10, page 29.
+Williams, Steven G., Casson Stallings, JohnAnn Shearer, and Alexa J. McKerrow. 2001. 
+Taking Refuge-GAP a Step Further: The GAP Ecosystem Data Explorer Tool in the 
+Roanoke-Tar-Neuse-Cape Fear Ecosystem. The Gap Analysis Bulletin 10, page 29.
 
-Stallings, Casson, Graham Glen, and Luther A Smith. 2000. CHAD User’s Guide: Extracting Human Activity Information from CHAD on the PC. US EPA. Can be found at https://www.epa.gov/sites/default/files/2015-02/documents/chad_manual.pdf
+Stallings, Casson. 2000. NC Pest Risk Mapper Brief User Instructions. Raleigh, 
+NC, North Carolina State University.
 
-Tippett, JA, G Glen, C Stallings, and LA Smith. 2000. APEX User’s Guide. US EPA.
+Tippett, JA, Graham Glen, Casson Stallings, and Luther A Smith. 2000. APEX 
+User’s Guide. US EPA.
 
-Stallings, Casson. 1997. The SWAT ArcView Interface User’s Guide (Version 0.9). Raleigh, NC: North Carolina State University. http://www4.ncsu.edu/users/c/cxs/www/index.html (no longer available).
+Stallings, Casson. 1997. The SWAT ArcView Interface User’s Guide (Version 0.9). 
+Raleigh, NC, North Carolina State University. 
+http://www4.ncsu.edu/users/c/cxs/www/index.html (no longer available).
 
-Stallings, Casson, William Branch, JA Moore, and Hugh A Devine. 1997. Introduction to ArcView 3.0. Materials for a GIS Workshop. Raleigh, NC: North Carolina State University.
+Stallings, Casson, William Branch, JA Moore, and Hugh A Devine. 1997. 
+Introduction to ArcView 3.0. Materials for a GIS Workshop. Raleigh, NC,
+North Carolina State University.
 
-Stallings, Casson, Rodney L Huffman, and Siamak Khorram. 1993. GIS Interface for Ground-Water Models (GIG) User’s Guide and Technical Notes: Software Version 0.75. Raleigh, NC: North Carolina State University.
+Stallings, Casson, Rodney L Huffman, and Siamak Khorram. 1993. GIS Interface 
+for Ground-Water Models (GIG) User’s Guide and Technical Notes: Software 
+Version 0.75. Raleigh, NC, North Carolina State University.
 
-Collins, Donald J, Curtiss O Davis, C Rockwell Booth, Dale A Kiefer, and Casson Stallings. 1990. Calculating Irradiance for Photosynthesis in the Ocean. NASA Tech Brief, March.
+Collins, Donald J, Curtiss O Davis, C Rockwell Booth, Dale A Kiefer, and 
+Casson Stallings. 1990. Calculating Irradiance for Photosynthesis in the 
+Ocean. NASA Tech Brief, March.
 
 ## Theses ##
 Stallings, Casson. 1995. Geographic Information System Data Integration and Simplification for Ground-Water Quality Modeling. Ph.D. Thesis, Raleigh, NC: North Carolina State University.
