@@ -47,6 +47,7 @@ Stallings, Casson, Siamak Khorram, and Rodney L Huffman. 1996. Use of a Polygon 
 Morisette, Jeffery, Siamak Khorram, Heather Cheshire, and Casson Stallings. 1996. Creating an Urban-Mask Raster Image with Vector Street Files. In Raster Imagery in Geographic Information Systems, 172–78. Santa Fe, NM: High Mountain Press.
 
 Brockhaus, JA, S Khorram, RI Bruck, MV Campbell, and C Stallings. 1992. A Comparison of Landsat TM and SPOT HRV Data for Use in the Development of Forest Defoliation Models. International Journal of Remote Sensing 13, no. 16: 3235–40. doi:10.1080/01431169208904114.
+
 Mitchell, BG, O Holm-Hansen, C Stallings, and DA Kiefer. 1987. RACER: Optical Prediction of Photobiological Properties. Antarctica Journal of the U.S.A. Review, pps. 145–47. 
 
 
@@ -55,7 +56,7 @@ Ward-Caviness, Cavin, Neas Lucas, Shaibal Mukherjee, Luther Smith, Casson Stalli
 
 Ward-Caviness, C, L Neas, S Mukerjee, L Smith, C Stallings, C Haynes, C Blach, et al. 2012. Mobile Source Air Pollution Is Associated With Several Cardiopulmonary Outcomes In a Large Cardiac Catheterization Cohort. In American Throasic Society 2012 Meeting. American Throacic Society.
 
-Johnson, M M, L M Neas, S Mukerjee, L Smith, and C Stallings. 2006. Traffic-Related Air Pollution and Children’s Respiratory Health: Beyond Proximity to Major Roadways. Presented at the Joint Meeting of Int. Soc. of Exposure Analysis and Int. Soc. of Environmental Epidemiology, Paris, France, September. http://journals.lww.com/epidem/Fulltext/2006/11001/TrafficrelatedAirPollutionandChildrens.1285.aspx.
+Johnson, MM, L M Neas, S Mukerjee, L Smith, and C Stallings. 2006. Traffic-Related Air Pollution and Children’s Respiratory Health: Beyond Proximity to Major Roadways. Presented at the Joint Meeting of Int. Soc. of Exposure Analysis and Int. Soc. of Environmental Epidemiology, Paris, France, September. http://journals.lww.com/epidem/Fulltext/2006/11001/TrafficrelatedAirPollutionandChildrens.1285.aspx.
 
 Johnson, MM, L Smith, S Mukerjee, R Williams, E Hudgens, C Stallings, H Özkaynak, A Vette, C Croghan, and L Neas. 2008. Evaluation of Land-Use Regression Models in Detroit, Michigan. Poster presented at the Joint Meeting of Int. Soc. of Exposure Analysis and Int. Soc. of Environmental Epidemiology, Pasadena, CA, October.
 
@@ -69,10 +70,9 @@ Zartarian, VG, J Xue, H Ozkaynak, W Dang, G Glen, L Smith, and C Stallings. 2003
 
 Smith, L, S Mukerjee, G Norris, M Gonzales, C Stallings, L Neas, and H Ozkaynak. 2003. Prediction of Fine Particulate Levels at Unmonitored Locations. Presented at the Annual AAAR Conference Proceedings, Anaheim CA, October.
 
-Zartarian, Valerie G, Haluk Ozkaynak, Jianping Xue, Luther A Smith, and Casson 
-Stallings. 2002. Stochastic Human Exposure and Dose Simulation Model (SHEDS): System Operation Review of a Scenario Specific Model (SHEDS-Wood) to Estimate Children’s Exposure and Dose to Wood Preservatives from Treated Playsets and Residential Decks Using EPA’s SHEDS Probabilistic Model. Presented at the FIFRA Scientific Advisory Panel Meeting, Arlington, VA, August.
+Zartarian, Valerie G, Haluk Ozkaynak, Jianping Xue, Luther A Smith, and Casson Stallings. 2002. Stochastic Human Exposure and Dose Simulation Model (SHEDS): System Operation Review of a Scenario Specific Model (SHEDS-Wood) to Estimate Children’s Exposure and Dose to Wood Preservatives from Treated Playsets and Residential Decks Using EPA’s SHEDS Probabilistic Model. Presented at the FIFRA Scientific Advisory Panel Meeting, Arlington, VA, August.
 
-Zartarian, Valerie G, Jianping Xue, Haluk Ozkaynak, Graham Glen, Luther Smith, and Casson Stallings. 2002. Modeling Activities Addressing National Issues: Aggregate Exposure Model Comparison Workshop. Presented at the Peer Review of NERL’s Human Exposure UPA Modeling Program, Arlington, VA, July.
+Zartarian, Valerie G, Jianping Xue, Haluk Ozkaynak, Graham Glen, Luther Smith, and Casson Stallings. 2002. Modeling Activities Addressing National Issues: Aggregate Exposure Model Comparison Workshop. Presented at the Peer Review of NERL’s Human Exposure UPA Modeling Program, Arlington, VA, July. https://archive.epa.gov/scipoly/sap/meetings/web/pdf/minutes.pdf.
 
 Zartarian, Valerie G, Haluk Ozkaynak, Jianping Xue, Luther Smith, Graham Glen, and Casson Stallings. 2001. Stochastic Human Exposure and Dose Simulation Model for Pesticides (SHEDS-Pesticides): Model Overview and Scenario Outputs. Paper presented at the EPA/Industry-Sponsored Workshop for the Aggregate Residential Model Comparison, Charlelston, SC, October.
 
@@ -92,11 +92,12 @@ Matson, KC, C Stallings, G Jennings, RA McLaughlin, and SW Coffey. 1995. Watersh
 
 White, Nancy M, Daniel E Line, C Stallings, and Gregory D Jennings. 1995. GIS Procedures for the Spatial Analysis of Fecal Coliform Bacteria Ecology, Phase I: Land Form Model Development. In Water Quality Modeling: Proceedings of the International Symposium, 284. Hyatt Hotel, Orlando, FL.
 
-Stallings, Casson, Siamak Khorram, and Rodney L Huffman. 1995. Spatial Simplification of Input Data for Hydrologic Models: Its Effect on Map Accuracy and Model Results. In Proceedings of the International Symposium on Computer-Assisted Cartography, 341–54. Charlotte, NC: ACSM/ASPRS.  https://cartogis.org/docs/proceedings/archive/auto-carto-12/pdf/spatial-simplification-of-input-data-for-hydrologic-models.pdf. 
+Stallings, Casson, Siamak Khorram, and Rodney L Huffman. 1995. Spatial Simplification of Input Data for Hydrologic Models: Its Effect on Map Accuracy and Model Results. In Proceedings of the International Symposium on Computer-Assisted Cartography, 341–54. Charlotte, NC: ACSM/ASPRS. https://cartogis.org/docs/proceedings/archive/auto-carto-12/pdf/spatial-simplification-of-input-data-for-hydrologic-models.pdf. 
 
 Cho, S, GD Jennings, HA Devine, and C Stallings. 1995. GIS-Based Water Quality Model Calibration in the Delaware River Basin. Paper No. 95–2404. Chicago, IL: ASAE.
 
 Stallings, Casson, Siamak Khorram, and Rodney L Huffman. 1994. GIS Data Integration for Ground-Water Quality Modeling. Poster presented at the Pesticide & Nutrient Impacts on Water Quality in North Carolina Workshop. Sponsered by the North Carolina Extension Service, Raleigh, NC, April 12.
+
 Jacobson, B, GD Jennings, and C Stallings. 1994. Multi-User / Multi-Purpose GIS Databases. In Proceedings of the 5th International Conference, Publication No 03-94:603–8. Chicago, IL: ASAE.
 
 Stallings, Casson. 1993. Land Cover Classification Errors. Invited Talk presented at the North Carolina GIS Conference, Raleigh, NC, April 14.
@@ -106,6 +107,7 @@ Stallings, Casson, Siamak Khorram, and Rodney L Huffman. 1993b. Ground Water Con
 Stallings, Casson, Siamak Khorram, Rodney L Huffman, and Z Guo. 1993. Increasing Classification Accuracy of Remotely Sensed Agricultural Land Cover Data with a GIS-Based Contextual Classifier. Poster presented at the North Carolina GIS Conference, Raleigh, NC, April 14.
 
 Stallings, Casson, Siamak Khorram, and Rodney L Huffman. 1993a. Increasing the Classification Accuracy of Remotely-Sensed Agricultural Land Cover Data with a GIS-Based Contextual Classifier. Poster presented at the Symposium on Geographic Information Systems and Water resources, Mobile, AL, March 14.
+
 Stallings, C, RL Huffman, S Khorram, and Z Guo. 1992. Linking Gleams and GIS. In Paper-American Society of Agricultural Engineers, 32. Nashville, TN: ASAE.
 
 Stallings, Casson, Siamak Khorram, Rodney L Huffman, and Z Guo. 1992. Ground Water Contamination Potential Using Models, GIS, and Remote Sensing. Poster presented at the USDA and State Water Quality Research Evaluation, Baton Rouge, LA, April 21.
@@ -144,7 +146,10 @@ Stallings, Casson. 2000. Analysis of Human Exposure Data for the SHEDS-PM Model.
 
 Stallings, Casson, Graham Glen, and Luther A Smith. 2000. CHAD Technical Guide: Technical Details of the CHAD Database for Developers. US EPA.
 
-Khorram, Siamak, Rodney L Huffman, and Casson Stallings. 1995. The Integration of Water-Quality Models and GIS for Special Protection Waters Management. Final Report for USDA 
+Khorram, Siamak, Rodney L Huffman, and Casson Stallings. 1995. The Integration of Water-Quality Models and GIS for Special Protection Waters Management. Final Report for USDA Grant. Raleigh, NC: North Carolina State University.
+
+Collins, Donald J, Curtiss O Davis, C Rockwell Booth, Dale A Kiefer, and Casson Stallings. 1990. Calculating Irradiance for Photosynthesis in the Ocean. NASA Tech Brief, March.
+
 
 ## Manuals (Selected) ##
 Glen, Graham,  Kristin Isaacs, Melissa Nysewander, Luther Smith, Casson Stallings, Tom McCurdy, John Langstaff, and ICF Consulting, 2012. Total Risk Integrated Methodology (TRIM) Air Pollutants Exposure Model Documentation (TRIM.Expo / APEX, Version 4), Volume I: User's Guide. EPA-452/B-12-001a, US EPA, RTP, NC. https://www.epa.gov/sites/default/files/2017-07/documents/apex45_usersguide_vol1_aug2012_0.pdf 
@@ -172,5 +177,3 @@ Stallings, Casson. 1997. The SWAT ArcView Interface User’s Guide (Version 0.9)
 Stallings, Casson, William Branch, JA Moore, and Hugh A Devine. 1997. Introduction to ArcView 3.0. Materials for a GIS Workshop. Raleigh, NC: North Carolina State University.
 
 Stallings, Casson, Rodney L Huffman, and Siamak Khorram. 1993. GIS Interface for Ground-Water Models (GIG) User’s Guide and Technical Notes: Software Version 0.75. Raleigh, NC: North Carolina State University.
-
-Collins, Donald J, Curtiss O Davis, C Rockwell Booth, Dale A Kiefer, and Casson Stallings. 1990. Calculating Irradiance for Photosynthesis in the Ocean. NASA Tech Brief, March.
