@@ -19,6 +19,8 @@ Blog: http://blog.dominodatalab.com/crunchbase-network-analysis-with-python/
 
 Project: https://app.dominoup.com/CassonStallings/VisiblyConnected/documentation/
 
+!(https://cdn.sanity.io/images/kuana2sp/production-main/5b4dc9580e9ae85e72d73b26603143251eded696-1024x768.png?w=1080&fit=max&auto=format)
+
 ### Error Bounds Using Little-Bag-Of-Bootstraps ### 
 Calculating error bounds on metrics derived from very large data sets and with some machine 
 learning techniques can be problematic. In more traditional statistics one can put a confidence 
@@ -30,6 +32,8 @@ publicly available on DominoDataLab.com.
 Blog: http://blog.dominodatalab.com/getting-error-bounds-on-classification-metrics/
 
 Project: http://app.dominoup.com/CassonStallings/bootstraps/documentation/
+
+!(https://cdn.sanity.io/images/kuana2sp/production-main/aebce8548eb5f7357f335143016713e08465af6f-1800x1500.png?w=1536&fit=max&auto=format)
 
 ### Predicting Homelessness in New York City with the SumAll Foundation ###
 The SumAll Foundation worked with the NYC Department of Homeless Services (DHS) in 
