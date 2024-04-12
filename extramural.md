@@ -12,12 +12,12 @@ represent the many relationships in their data. Originally written as a student 
 at the Zipfian Academy (now Galvanize), Visibly Connected II facilitates the network 
 construction from and analysis of Crunchbase data. The article published on Domino Data 
 Lab's blog, presents an analysis of acquisitions represented in the Crunchbase data. 
-Technical details on the software itself are documented in the public project. The 
-software, data, and results are available for anyone to try on DominoDataLab.com.
+The software, data, and results were available for anyone to try on DominoDataLab.com, 
+but appear not to be at this time.
 
 Blog: http://blog.dominodatalab.com/crunchbase-network-analysis-with-python/
 
-Project: https://app.dominoup.com/CassonStallings/VisiblyConnected/documentation/
+<!-- Project: https://app.dominoup.com/CassonStallings/VisiblyConnected/documentation/ -->
 
 !(https://cdn.sanity.io/images/kuana2sp/production-main/5b4dc9580e9ae85e72d73b26603143251eded696-1024x768.png?w=1080&fit=max&auto=format)
 
@@ -26,12 +26,12 @@ Calculating error bounds on metrics derived from very large data sets and with s
 learning techniques can be problematic. In more traditional statistics one can put a confidence 
 interval or error bound on most metrics, parameters, or classifications. In this article I discuss 
 the little-bag-of-bootstraps, its advantages over more traditional bootstrapping, and give two 
-examples pertinent to machine learning. The full article, code, data, results, and references are 
-publicly available on DominoDataLab.com.
+examples pertinent to machine learning. The full article, code, data, results, and references were 
+publicly available on DominoDataLab.com, but appear not to be at this time.
 
 Blog: http://blog.dominodatalab.com/getting-error-bounds-on-classification-metrics/
 
-Project: http://app.dominoup.com/CassonStallings/bootstraps/documentation/
+<!-- Project: http://app.dominoup.com/CassonStallings/bootstraps/documentation/ -->
 
 !(https://cdn.sanity.io/images/kuana2sp/production-main/aebce8548eb5f7357f335143016713e08465af6f-1800x1500.png?w=1536&fit=max&auto=format)
 
