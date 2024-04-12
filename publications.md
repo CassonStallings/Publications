@@ -5,9 +5,9 @@
 
 [Conference Presentations](#conference-presentations)
 
-[Reports (Selected)](#reports--selected-)
+[Reports-Selected](#reports-selected)
 
-[Manuals (Selected)](#manuals--selected-)
+[Manuals-Selected](#manuals-selected)
 
 [Theses](#theses)
 
@@ -131,7 +131,7 @@ Stallings, Casson, and John G. Rueter. 1984. Adverse Effects of Millimolar Conce
 Stallings, Casson, and John G. Rueter. 1983. Silicic Acid Uptake and Growth in a Marine Diatom: Effects of Salinity, EDTA, and Zinc. In EOS 64:1029.
 
 
-## Reports (Selected) ##
+## Reports-Selected ##
 Smith, Luther, Mariko Porter, Melissa Nysewander, Graham Glen, Casson Stallings, and Eric S Hall. 2011. Equating Semi-Continuous (SC) PM2.5 Mass Monitor Measurement Values with Federal Reference Method (FRM) PM2.5 Monitor Measurement Values. Final Report. May. Washington, D.C.: US EPA.
 
 Zartarian, VG, J Xue, HA Ozkaynak, W Dang, G Glen, L Smith, and C Stallings. 2005. A Probabilistic Exposure Assessment for Children Who Contact CCA-Treated Playsets and Decks Using the Stochastic Human Exposure and Dose Simulation Model for the Wood Preservative Scenario (SHEDS-WOOD). Final Report EPA/600/X-05/009. Washington, D.C.: US EPA.
@@ -151,7 +151,7 @@ Khorram, Siamak, Rodney L Huffman, and Casson Stallings. 1995. The Integration o
 Collins, Donald J, Curtiss O Davis, C Rockwell Booth, Dale A Kiefer, and Casson Stallings. 1990. Calculating Irradiance for Photosynthesis in the Ocean. NASA Tech Brief, March.
 
 
-## Manuals (Selected) ##
+## Manuals-Selected ##
 Glen, Graham,  Kristin Isaacs, Melissa Nysewander, Luther Smith, Casson Stallings, Tom McCurdy, John Langstaff, and ICF Consulting, 2012. Total Risk Integrated Methodology (TRIM) Air Pollutants Exposure Model Documentation (TRIM.Expo / APEX, Version 4), Volume I: User's Guide. EPA-452/B-12-001a, US EPA, RTP, NC. https://www.epa.gov/sites/default/files/2017-07/documents/apex45_usersguide_vol1_aug2012_0.pdf. 
 
 Glen, Graham,  Kristin Isaacs, Melissa Nysewander, Luther Smith, Casson Stallings, Tom McCurdy, John Langstaff, and ICF Consulting, 2012. Total Risk Integrated Methodology (TRIM) Air Pollutants Exposure Model Documentation (TRIM.Expo / APEX, Version 4), Volume II: Technical Support Document. EPA-452/B-12-001b, US EPA, RTP, NC. https://www.epa.gov/sites/default/files/2017-07/documents/apex45_usersguide_vol2_aug2012_0_1.pdf.
