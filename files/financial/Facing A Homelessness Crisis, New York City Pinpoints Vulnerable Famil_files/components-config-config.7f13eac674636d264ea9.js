@@ -1,5 +1,0 @@
-(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[97],{1174:function(i,n,t){"use strict";t.r(n);var e=t(0),a=t.n(e),r=t(2),r=t.n(r),o=t(40),s=t(878),l=t.n(s),s=t(480),d=t.n(s),s=t(883),u=t.n(s);class c extends e.Component{shouldComponentUpdate(){return!1}render(){return this.props.initialPageLoad?a.a.createElement("script",{dangerouslySetInnerHTML:{__html:`/*<!--*/ 
-
-window.appState = ${this.props.state}; 
- /*-->*/`}}):null}}c.propTypes={state:r.a.string.isRequired,initialPageLoad:r.a.bool.isRequired},n.default=Object(o.b)(function(i){var n=d()(i),i=i.config.initialPageLoad;return n.config=l()(n.config,["criticalCss"]),n.config.initialQueryParams=u()(n.config.initialQueryParams),{state:n=i?u()(n):"",initialPageLoad:i}})(c)}}]);
-//# sourceMappingURL=components-config-config.7f13eac674636d264ea9.js.map

@@ -68,7 +68,7 @@ http://www.forbes.com/sites/ellenhuet/2014/09/11/uber-lyft-slowing-growth-rate/
 Metz, Cate. (2014, September 11). Uber’s Revenue Is 12 Times The Size of Lyft’s, New Study Says. Wired. 
 http://www.wired.com/2014/09/ubers-revenue-12-times-bigger-lyfts-new-study-says/
 
-![Figure showing growth rate of new customers decreasing between July 2012 and July 2014](/files/images/uber_lyft_growth_rate_image.png)
+![Figure showing growth rate of new customers decreasing between July 2012 and July 2014](/images/uber_lyft_growth_rate_image.png)
 
 ### Stocks Popular with People by State, Analysis of 160,000 Individual Investors ###
 Levy, Art. (2014, October 16). Apple’s stock is as popular as its iPhones. CNBC. 
@@ -81,4 +81,4 @@ http://www.businessinsider.com/apple-and-ge-are-the-most-popular-stocks-in-ameri
 Hickman, Melanie. (2014, January 26). Is Your Target-Date Fund Ripping You Off? CNN Personal Finance, 
 January 26, 2015. http://money.cnn.com/2015/01/25/retirement/target-date-fund/
 
-![Figure showing target-date fund returns by retirement date and fund expenses](/files/images/target_date_fund_and_expenses.png)
+![Figure showing target-date fund returns by retirement date and fund expenses](/images/target_date_fund_and_expenses.png)

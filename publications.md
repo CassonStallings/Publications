@@ -5,16 +5,16 @@
 
 [Conference Presentations](#conference-presentations)
 
-[Reports (Selected)](#reports--selected-)
+[Reports-Selected](#reports-selected)
 
-[Manuals (Selected)](#manuals--selected-)
+[Manuals-Selected](#manuals-selected)
 
 [Theses](#theses)
 
 ## Peer Reviewed Articles and Book Chapters ##
-Ward-Caviness, Cavin K., William E. Kraus, Colette Blach, Carol S. Haynes, Elaine Dowdy, Marie Lynn Miranda, et al. 2018. Associations Between Residential Proximity to Traffic and Vascular Disease in a Cardiac Catheterization Cohort. Arteriosclerosis, Thrombosis, and Vascular Biology Volume 38, Issue 1 pages 275-282. https://www.ahajournals.org/doi/epub/10.1161/ATVBAHA.117.310003
+Ward-Caviness, Cavin K., William E. Kraus, Colette Blach, Carol S. Haynes, Elaine Dowdy, Marie Lynn Miranda, et al. 2018. Associations Between Residential Proximity to Traffic and Vascular Disease in a Cardiac Catheterization Cohort. Arteriosclerosis, Thrombosis, and Vascular Biology Volume 38, Issue 1 pages 275-282. https://www.ahajournals.org/doi/epub/10.1161/ATVBAHA.117.310003.
 
-Baxter, L, C Stallings, L Smith, et al. 2017. Probabilistic estimation of residential air exchange rates for population-based human exposure modeling. J Expo Sci Environ Epidemiol 27, 227–234. https://doi.org/10.1038/jes.2016.49
+Baxter, L, C Stallings, L Smith, et al. 2017. Probabilistic estimation of residential air exchange rates for population-based human exposure modeling. J Expo Sci Environ Epidemiol 27, 227–234. https://doi.org/10.1038/jes.2016.49.
 
 Eiselea, AP, S Mukerjee, LA Smith, ED Thomas, D Whitaker, K Oliver, T Wu, et al. (2016) Volatile Organic Compounds at Two Oil and Natural Gas Production Well Pads in Colorado and Texas Using Passive Samplers. Journal of the Air & Waste Management Association 66(4): 412-419. doi:10.1080/10962247.2016.1141808.
 
@@ -131,7 +131,7 @@ Stallings, Casson, and John G. Rueter. 1984. Adverse Effects of Millimolar Conce
 Stallings, Casson, and John G. Rueter. 1983. Silicic Acid Uptake and Growth in a Marine Diatom: Effects of Salinity, EDTA, and Zinc. In EOS 64:1029.
 
 
-## Reports (Selected) ##
+## Reports-Selected ##
 Smith, Luther, Mariko Porter, Melissa Nysewander, Graham Glen, Casson Stallings, and Eric S Hall. 2011. Equating Semi-Continuous (SC) PM2.5 Mass Monitor Measurement Values with Federal Reference Method (FRM) PM2.5 Monitor Measurement Values. Final Report. May. Washington, D.C.: US EPA.
 
 Zartarian, VG, J Xue, HA Ozkaynak, W Dang, G Glen, L Smith, and C Stallings. 2005. A Probabilistic Exposure Assessment for Children Who Contact CCA-Treated Playsets and Decks Using the Stochastic Human Exposure and Dose Simulation Model for the Wood Preservative Scenario (SHEDS-WOOD). Final Report EPA/600/X-05/009. Washington, D.C.: US EPA.
@@ -151,10 +151,10 @@ Khorram, Siamak, Rodney L Huffman, and Casson Stallings. 1995. The Integration o
 Collins, Donald J, Curtiss O Davis, C Rockwell Booth, Dale A Kiefer, and Casson Stallings. 1990. Calculating Irradiance for Photosynthesis in the Ocean. NASA Tech Brief, March.
 
 
-## Manuals (Selected) ##
-Glen, Graham,  Kristin Isaacs, Melissa Nysewander, Luther Smith, Casson Stallings, Tom McCurdy, John Langstaff, and ICF Consulting, 2012. Total Risk Integrated Methodology (TRIM) Air Pollutants Exposure Model Documentation (TRIM.Expo / APEX, Version 4), Volume I: User's Guide. EPA-452/B-12-001a, US EPA, RTP, NC. https://www.epa.gov/sites/default/files/2017-07/documents/apex45_usersguide_vol1_aug2012_0.pdf 
+## Manuals-Selected ##
+Glen, Graham,  Kristin Isaacs, Melissa Nysewander, Luther Smith, Casson Stallings, Tom McCurdy, John Langstaff, and ICF Consulting, 2012. Total Risk Integrated Methodology (TRIM) Air Pollutants Exposure Model Documentation (TRIM.Expo / APEX, Version 4), Volume I: User's Guide. EPA-452/B-12-001a, US EPA, RTP, NC. https://www.epa.gov/sites/default/files/2017-07/documents/apex45_usersguide_vol1_aug2012_0.pdf. 
 
-Glen, Graham,  Kristin Isaacs, Melissa Nysewander, Luther Smith, Casson Stallings, Tom McCurdy, John Langstaff, and ICF Consulting, 2012. Total Risk Integrated Methodology (TRIM) Air Pollutants Exposure Model Documentation (TRIM.Expo / APEX, Version 4), Volume II: Technical Support Document. EPA-452/B-12-001b, US EPA, RTP, NC. https://www.epa.gov/sites/default/files/2017-07/documents/apex45_usersguide_vol2_aug2012_0_1.pdf
+Glen, Graham,  Kristin Isaacs, Melissa Nysewander, Luther Smith, Casson Stallings, Tom McCurdy, John Langstaff, and ICF Consulting, 2012. Total Risk Integrated Methodology (TRIM) Air Pollutants Exposure Model Documentation (TRIM.Expo / APEX, Version 4), Volume II: Technical Support Document. EPA-452/B-12-001b, US EPA, RTP, NC. https://www.epa.gov/sites/default/files/2017-07/documents/apex45_usersguide_vol2_aug2012_0_1.pdf.
 
 Issacs, Kristin, Casson Stallings, Valerie Zartarian, and Graham Glen. 2012. The Stochastic Human Exposure and Dose Simulation Model for Multimedia, Multipathway Chemicals (SHEDS-Multimedia): Residential Module-SHEDS-Residential version 4-User Guide. US EPA, RTP, NC. https://www.epa.gov/sites/default/files/2015-02/documents/shedsresidential_usersguide_6_4_2012.pdf.
 
@@ -168,7 +168,7 @@ Stallings, Casson. 2000. NC Pest Risk Mapper Brief User Instructions. Raleigh, N
 
 Williams, Steven G., Casson Stallings, JohnAnn Shearer, and Alexa J. McKerrow. 2001. Taking Refuge-GAP a Step Further: The GAP Ecosystem Data Explorer Tool in the Roanoke-Tar-Neuse-Cape Fear Ecosystem. The Gap Analysis Bulletin 10, page 29. https://apps.dtic.mil/sti/tr/pdf/ADA407826.pdf. [Related presentations at http://www.basic.ncsu.edu/ncgap/GEDE_Tool.html and http://www.basic.ncsu.edu/pres/poster_tool.pdf.]
 
-Stallings, Casson, Graham Glen, and Luther A Smith. 2000. CHAD User’s Guide: Extracting Human Activity Information from CHAD on the PC. US EPA. Can be found at https://www.epa.gov/sites/default/files/2015-02/documents/chad_manual.pdf
+Stallings, Casson, Graham Glen, and Luther A Smith. 2000. CHAD User’s Guide: Extracting Human Activity Information from CHAD on the PC. US EPA. Can be found at https://www.epa.gov/sites/default/files/2015-02/documents/chad_manual.pdf.
 
 Tippett, JA, G Glen, C Stallings, and LA Smith. 2000. APEX User’s Guide. US EPA.
 
@@ -177,3 +177,10 @@ Stallings, Casson. 1997. The SWAT ArcView Interface User’s Guide (Version 0.9)
 Stallings, Casson, William Branch, JA Moore, and Hugh A Devine. 1997. Introduction to ArcView 3.0. Materials for a GIS Workshop. Raleigh, NC: North Carolina State University.
 
 Stallings, Casson, Rodney L Huffman, and Siamak Khorram. 1993. GIS Interface for Ground-Water Models (GIG) User’s Guide and Technical Notes: Software Version 0.75. Raleigh, NC: North Carolina State University.
+
+## Theses ##
+Stallings, Casson. 1995. Geographic Information System Data Integration and Simplification for Ground-Water Quality Modeling. Ph.D. Thesis, Raleigh, NC: North Carolina State University.
+
+Stallings, Casson. 1998. Using the Coastal Zone Color Scanner to estimate primary production in the Gulf of California.. M.S. Thesis, Los Angeles, CA: University of Southern California.
+
+Stallings, Casson. 1984. Salinity, Zinc, and EDTA Effects on Silicate Uptake and Growth of the Diatom Thalassiosira Weisflogii. Undergraduate Thesis, Portland, OR: Portland State University.
