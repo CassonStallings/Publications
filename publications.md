@@ -1,4 +1,4 @@
-# Casson Stallings Publications #
+# Casson Stallings - Publications #
 
 ## Sections ##
 [Peer Reviewed Articles and Book Chapters](#peer_reviewed_articles_and_book_chapters)
