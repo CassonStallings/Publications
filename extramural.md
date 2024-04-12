@@ -19,7 +19,7 @@ Blog: http://blog.dominodatalab.com/crunchbase-network-analysis-with-python/
 
 <!-- Project: https://app.dominoup.com/CassonStallings/VisiblyConnected/documentation/ -->
 
-!(https://cdn.sanity.io/images/kuana2sp/production-main/5b4dc9580e9ae85e72d73b26603143251eded696-1024x768.png?w=1080&fit=max&auto=format)
+![](https://cdn.sanity.io/images/kuana2sp/production-main/5b4dc9580e9ae85e72d73b26603143251eded696-1024x768.png?w=1080&fit=max&auto=format)
 
 ### Error Bounds Using Little-Bag-Of-Bootstraps ### 
 Calculating error bounds on metrics derived from very large data sets and with some machine 
@@ -33,7 +33,7 @@ Blog: http://blog.dominodatalab.com/getting-error-bounds-on-classification-metri
 
 <!-- Project: http://app.dominoup.com/CassonStallings/bootstraps/documentation/ -->
 
-!(https://cdn.sanity.io/images/kuana2sp/production-main/aebce8548eb5f7357f335143016713e08465af6f-1800x1500.png?w=1536&fit=max&auto=format)
+![](https://cdn.sanity.io/images/kuana2sp/production-main/aebce8548eb5f7357f335143016713e08465af6f-1800x1500.png?w=1536&fit=max&auto=format)
 
 ### Predicting Homelessness in New York City with the SumAll Foundation ###
 The SumAll Foundation worked with the NYC Department of Homeless Services (DHS) in 
@@ -68,7 +68,7 @@ http://www.forbes.com/sites/ellenhuet/2014/09/11/uber-lyft-slowing-growth-rate/
 Metz, Cate. (2014, September 11). Uber’s Revenue Is 12 Times The Size of Lyft’s, New Study Says. Wired. 
 http://www.wired.com/2014/09/ubers-revenue-12-times-bigger-lyfts-new-study-says/
 
-![Figure showing growth rate of new customers decreasing between July 2012 and July 2014](/images/uber_lyft_growth_rate_image.png)
+![Figure showing growth rate of new customers decreasing between July 2012 and July 2014](/files/images/uber_lyft_growth_rate_image.png)
 
 ### Stocks Popular with People by State, Analysis of 160,000 Individual Investors ###
 Levy, Art. (2014, October 16). Apple’s stock is as popular as its iPhones. CNBC. 
@@ -81,4 +81,4 @@ http://www.businessinsider.com/apple-and-ge-are-the-most-popular-stocks-in-ameri
 Hickman, Melanie. (2014, January 26). Is Your Target-Date Fund Ripping You Off? CNN Personal Finance, 
 January 26, 2015. http://money.cnn.com/2015/01/25/retirement/target-date-fund/
 
-![Figure showing target-date fund returns by retirement date and fund expenses](/images/target_date_fund_and_expenses.png)
+![Figure showing target-date fund returns by retirement date and fund expenses](/files/images/target_date_fund_and_expenses.png)
