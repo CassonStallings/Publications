@@ -5,9 +5,9 @@
 
 [Conference Presentations](#conference-presentations)
 
-[Reports (Selected)](#reports-(selected))
+[Reports (Selected)](#reports--selected-)
 
-[Manuals (Selected)](#manuals-(selected))
+[Manuals (Selected)](#manuals--selected-)
 
 [Theses](#theses)
 
