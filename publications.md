@@ -13,55 +13,75 @@
 
 ## Peer Reviewed Articles and Book Chapters ##
 
-Ward-Caviness, Cavin K., William E. Kraus, Colette Blach, Carol S. Haynes, Elaine Dowdy, Marie Lynn Miranda, et al. 2018. Associations Between Residential Proximity to Traffic and Vascular Disease in a Cardiac Catheterization Cohort. Arteriosclerosis, Thrombosis, and Vascular Biology Volume 38, Issue 1 pages 275-282. https://www.ahajournals.org/doi/epub/10.1161/ATVBAHA.117.310003.
+Ward-Caviness, CK, William E. Kraus, Colette Blach, Carol S. Haynes, Elaine Dowdy, Marie Lynn 
+Miranda, et al. 2018. Associations Between Residential Proximity to Traffic and Vascular Disease in a Cardiac Catheterization Cohort. Arteriosclerosis, Thrombosis, and Vascular Biology Volume 38, Issue 1 pages 275-282. 
+https://www.ahajournals.org/doi/epub/10.1161/ATVBAHA.117.310003.
 
-Baxter, L, C Stallings, L Smith, et al. 2017. Probabilistic estimation of residential air exchange rates for population-based human exposure modeling. J Expo Sci Environ Epidemiol 27, 227–234. https://doi.org/10.1038/jes.2016.49.
+Baxter, L, C Stallings, L Smith, et al. 2017. Probabilistic estimation of residential air exchange rates for population-based human exposure modeling. J Expo Sci Environ Epidemiol 27, 227–234. 
+https://doi.org/10.1038/jes.2016.49.
 
 Oliver, KD, TA Cousett, DA Whitaker, LA Smith, et al. 2017. Sample integrity evaluation and EPA 
 method 325B interlaboratory comparison for select volatile organic compounds collected 
-diffusively on Carbopack X sorbent tubes. Atmospheric Environment, 163: 99-106.https://doi.
-org/10.1016/j.atmosenv.2017.05.042.
+diffusively on Carbopack X sorbent tubes. Atmospheric Environment, 163: 99-106. 
+https://doi.org/10.1016/j.atmosenv.2017.05.042.
 
 Eiselea, AP, S Mukerjee, LA Smith, ED Thomas, D Whitaker, K Oliver, T Wu, et al. 2016. Volatile 
-Organic Compounds at Two Oil and Natural Gas Production Well Pads in Colorado and Texas Using Passive Samplers. Journal of the Air & Waste Management Association 66(4): 412-419. doi:10.1080/10962247.2016.1141808.
+Organic Compounds at Two Oil and Natural Gas Production Well Pads in Colorado and Texas Using 
+Passive Samplers. Journal of the Air & Waste Management Association 66(4): 412-419.  
+https://doi.org/:10.1080/10962247.2016.1141808.
 
 Mukerjee, S, LA Smith, ED Thoma, KD Oliver, DA Whitaker, T Wu, et al. (2016). Spatial analysis 
 of volatile organic compounds in South Philadelphia using passive samplers. Journal of the Air & 
 Waste Management Association, 66(5): 492–498. https://doi.org/10.1080/10962247.2016.1147505.
 
-Ward-Caviness, C, WE Kraus, C Blach, C Haynes, E Dowdy, ML Miranda, R Devlin, et al. (2015) Association of Traffic-Related Air Pollution with Fasting Plasma Glucose and Metabolic Risk Factors for Cardiovascular Disease. Environmental Health Perspectives, Advanced Publication (2015/03/15), http://dx.doi.org/10.1289/ehp.1306980.
+Ward-Caviness, CK, WE Kraus, C Blach, C Haynes, E Dowdy, ML Miranda, R Devlin, et al. (2015) 
+Association of Traffic-Related Air Pollution with Fasting Plasma Glucose and Metabolic Risk 
+Factors for Cardiovascular Disease. Environmental Health Perspectives, Advanced Publication  
+(2015/03/15), https://doi.org/10.1289/ehp.1306980.
 
-Mukerjee, S, L Smith, H Brantley, C Stallings, L Neas, S Kimbrough, and R Williams. 2015. Comparison of Modeled Traffic Exposure Zones Using On-Road Air Pollution Measurements. Atmospheric Pollution Research 6: 82–87. doi:10.5094/APR.2015.010.
+Mukerjee, S, L Smith, H Brantley, C Stallings, L Neas, S Kimbrough, and R Williams. 2015. Comparison of Modeled Traffic Exposure Zones Using On-Road Air Pollution Measurements. Atmospheric Pollution Research 6: 82–87. 
+https://doi.org/10.5094/APR.2015.010.
 
-Breen, Michael S, Bradley D Schultz, Michael D Sohn, Thomas Long, John Langstaff, Ronald Williams, Kristin Issacs, Qing Yu Meng, Casson Stallings, and Luther A Smith. 2014. A Review of Air Exchange Rate Models for Air Pollution Exposure Assessments. Journal of Exposure Science and Environmental Epidemiology 24: 555–63. doi:10.1038/jes.2013.30.
+Breen, Michael S, Bradley D Schultz, Michael D Sohn, Thomas Long, John Langstaff, Ronald Williams, Kristin Issacs, Qing Yu Meng, Casson Stallings, and Luther A Smith. 2014. A Review of Air Exchange Rate Models for Air Pollution Exposure Assessments. Journal of Exposure Science and Environmental Epidemiology 24: 555–63. 
+https://doi.org/10.1038/jes.2013.30.
 
-Chung, Kuenja C, Thomas H Stock, Luther A Smith, Masoud Afshar, Xiaojuan L Liao, and Casson Stallings. 2009. Post-Hurricane Katrina Passive Sampling of Ambient Volatile Organic Compounds in The Greater New Orleans Area. Environmental Research 109, no. 8: 943–51. doi:10.1016/j.envres.2009.08.006.
+Chung, Kuenja C, Thomas H Stock, Luther A Smith, Masoud Afshar, Xiaojuan L Liao, and Casson Stallings. 2009. Post-Hurricane Katrina Passive Sampling of Ambient Volatile Organic Compounds in The Greater New Orleans Area. Environmental Research 109, no. 8: 943–51. 
+https://doi.org/10.1016/j.envres.2009.08.006.
 
-Smith, Luther, Shaibal Mukerjee, Melissa Gonzales, Casson Stallings, Lucas Neas, Gary Norris, and Halûk Özkaynak. 2009. Use of GIS And Ancillary Variables to Predict Volatile Organic Compounds and Nitrogen Dioxide Levels at Unmonitored Locations. Atmospheric Environment 40, no. 20: 3773–87. doi:10.1016/j.atmosenv.2006.02.036.
+Smith, Luther, Shaibal Mukerjee, Melissa Gonzales, Casson Stallings, Lucas Neas, Gary Norris, and Halûk Özkaynak. 2009. Use of GIS And Ancillary Variables to Predict Volatile Organic Compounds and Nitrogen Dioxide Levels at Unmonitored Locations. Atmospheric Environment 40, no. 20: 3773–87. 
+https://doi.org/10.1016/j.atmosenv.2006.02.036.
 
-Mukerjee, Shaibal, Luther A Smith, Mary M Johnson, Lucas M Neas, and Casson A Stallings. 2009. Spatial Analysis and Land Use Regression Of VOC and NO2 from School-Based Urban Air Monitoring In Detroit/Dearborn, USA. Science of The Total Environment 407, no. 16: 4642–51. doi:10.1016/j.scitotenv.2009.04.030.
+Mukerjee, Shaibal, Luther A Smith, Mary M Johnson, Lucas M Neas, and Casson A Stallings. 2009. Spatial Analysis and Land Use Regression Of VOC and NO2 from School-Based Urban Air Monitoring In Detroit/Dearborn, USA. Science of The Total Environment 407, no. 16: 4642–51. 
+https://doi.org/10.1016/j.scitotenv.2009.04.030.
 
-Smith, Luther A, Thomas H Stock, Kuenja C Chung, Shaibal Mukerjee, Xiaojuan L Liao, Casson Stallings, and Masoud Afshar. Spatial Analysis of Volatile Organic Compounds From a Community-Based Air Toxics Monitoring Network In Deer Park, Texas, USA. Environmental Monitoring and Assessment 128, no. 1–3 (2007): 369–79. doi:10.1007/s10661-006-9320-8.
+Smith, Luther A, Thomas H Stock, Kuenja C Chung, Shaibal Mukerjee, Xiaojuan L Liao, Casson Stallings, and Masoud Afshar. Spatial Analysis of Volatile Organic Compounds From a Community-Based Air Toxics Monitoring Network In Deer Park, Texas, USA. Environmental Monitoring and Assessment 128, no. 1–3 (2007): 369–79. 
+https://doi.org/10.1007/s10661-006-9320-8.
 
-Zartarian, Valerie G, Jianping Xue, Halûk Özkaynak, Winston Dang, Graham Glen, Luther Smith, and Casson Stallings. 2006. A Probabilistic Arsenic Exposure Assessment for Children Who Contact CCA-Treated Playsets and Decks, Part 1: Model Methodology, Variability Results, and Model Evaluation. Risk Analysis 26, no. 2: 515–31. doi:10.1111/j.1539-6924.2006.00747.x.
+Zartarian, Valerie G, Jianping Xue, Halûk Özkaynak, Winston Dang, Graham Glen, Luther Smith, and Casson Stallings. 2006. A Probabilistic Arsenic Exposure Assessment for Children Who Contact CCA-Treated Playsets and Decks, Part 1: Model Methodology, Variability Results, and Model Evaluation. Risk Analysis 26, no. 2: 515–31. 
+https://doi.org/10.1111/j.1539-6924.2006.00747.x.
 
-Xue, Jianping, Valerie G Zartarian, Halûk Özkaynak, Winston Dang, Graham Glen, Luther Smith, and Casson Stallings. 2006. A Probabilistic Arsenic Exposure Assessment for Children Who Contact Chromated Copper Arsenate (CCA)-Treated Playsets and Decks, Part 2: Sensitivity and Uncertainty Analyses. Risk Analysis 26, no. 2: 533–41. doi:10.1111/j.1539-6924.2006.00748.x.
+Xue, Jianping, Valerie G Zartarian, Halûk Özkaynak, Winston Dang, Graham Glen, Luther Smith, and Casson Stallings. 2006. A Probabilistic Arsenic Exposure Assessment for Children Who Contact Chromated Copper Arsenate (CCA)-Treated Playsets and Decks, Part 2: Sensitivity and Uncertainty Analyses. Risk Analysis 26, no. 2: 533–41. 
+https://doi.org/10.1111/j.1539-6924.2006.00748.x.
 
-Varns, Jerry L, James D Mulik, Mark E Sather, Graham Glen, Luther Smith, and Casson Stallings. 2005. Passive Ozone Network of Dallas: A Modeling Opportunity With Community Involvement. 1. Environmental Science & Technology 35, no. 5: 845–55. doi:10.1021/es001311c.
+Varns, Jerry L, James D Mulik, Mark E Sather, Graham Glen, Luther Smith, and Casson Stallings. 2005. Passive Ozone Network of Dallas: A Modeling Opportunity With Community Involvement. 1. Environmental Science & Technology 35, no. 5: 845–55. 
+https://doi.org/10.1021/es001311c.
 
-Sather, Mark E, Jerry L Varns, James D Mulik, Graham Glen, Luther Smith, and Casson Stallings. 2001. Passive Ozone Network of Dallas: A Modeling Opportunity With Community Involvement. 2. Environmental Science & Technology 35, no. 22: 4426–35. doi:10.1021/es010889z.
+Sather, Mark E, Jerry L Varns, James D Mulik, Graham Glen, Luther Smith, and Casson Stallings. 2001. Passive Ozone Network of Dallas: A Modeling Opportunity With Community Involvement. 2. Environmental Science & Technology 35, no. 22: 4426–35. 
+https://doi.org/10.1021/es010889z.
 
-Stallings, Casson, Siamak Khorram, and Rodney L Huffman. 1999. Incorporating Ancillary Data Into a Logical Filter for Classified Satellite Imagery. Geocarto International 14, no. 2: 42–51. doi:10.1080/10106049908542103.
+Stallings, Casson, Siamak Khorram, and Rodney L Huffman. 1999. Incorporating Ancillary Data Into a Logical Filter for Classified Satellite Imagery. Geocarto International 14, no. 2: 42–51. 
+https://doi.org/10.1080/10106049908542103.
 
 Stallings, Casson, Siamak Khorram, and Rodney L Huffman. 1996. Use of a Polygon Mode Filter to Simplify and Improve Remotely-Sensed Agricultural Land Cover Data. In Raster Imagery in Geographic Information Systems, 231–38. Santa Fe, NM: High Mountain Press.
 
 Morisette, Jeffery, Siamak Khorram, Heather Cheshire, and Casson Stallings. 1996. Creating an Urban-Mask Raster Image with Vector Street Files. In Raster Imagery in Geographic Information Systems, 172–78. Santa Fe, NM: High Mountain Press.
 
-Brockhaus, JA, S Khorram, RI Bruck, MV Campbell, and C Stallings. 1992. A Comparison of Landsat TM and SPOT HRV Data for Use in the Development of Forest Defoliation Models. International Journal of Remote Sensing 13, no. 16: 3235–40. doi:10.1080/01431169208904114.
+Brockhaus, JA, S Khorram, RI Bruck, MV Campbell, and C Stallings. 1992. A Comparison of Landsat TM and SPOT HRV Data for Use in the Development of Forest Defoliation Models. International Journal of Remote Sensing 13, no. 16: 3235–40. 
+https://doi.org/10.1080/01431169208904114.
 
 Mitchell, BG, O Holm-Hansen, C Stallings, and DA Kiefer. 1987. RACER: Optical Prediction of 
-Photobiological Properties. Antarctica Journal of the U.S.A. Review, pps. 145–47. https://s3.
-amazonaws.com/Antarctica/AJUS/AJUSvXXIIn5/AJUSvXXIIn5p145.pdf [downloads a PDF] 
+Photobiological Properties. Antarctica Journal of the U.S.A. Review, pps. 145–47. 
+https://s3.amazonaws.com/Antarctica/AJUS/AJUSvXXIIn5/AJUSvXXIIn5p145.pdf [downloads a PDF] 
 
 ## Conference Presentations ##
 Ward-Caviness, Cavin, Neas Lucas, Shaibal Mukherjee, Luther Smith, 
