@@ -16,7 +16,17 @@ Ward-Caviness, Cavin K., William E. Kraus, Colette Blach, Carol S. Haynes, Elain
 
 Baxter, L, C Stallings, L Smith, et al. 2017. Probabilistic estimation of residential air exchange rates for population-based human exposure modeling. J Expo Sci Environ Epidemiol 27, 227–234. https://doi.org/10.1038/jes.2016.49.
 
-Eiselea, AP, S Mukerjee, LA Smith, ED Thomas, D Whitaker, K Oliver, T Wu, et al. (2016) Volatile Organic Compounds at Two Oil and Natural Gas Production Well Pads in Colorado and Texas Using Passive Samplers. Journal of the Air & Waste Management Association 66(4): 412-419. doi:10.1080/10962247.2016.1141808.
+Oliver, KD, TA Cousett, DA Whitaker, LA Smith, et al. 2017. Sample integrity evaluation and EPA 
+method 325B interlaboratory comparison for select volatile organic compounds collected 
+diffusively on Carbopack X sorbent tubes. Atmospheric Environment, 163: 99-106.https://doi.
+org/10.1016/j.atmosenv.2017.05.042.
+
+Eiselea, AP, S Mukerjee, LA Smith, ED Thomas, D Whitaker, K Oliver, T Wu, et al. 2016. Volatile 
+Organic Compounds at Two Oil and Natural Gas Production Well Pads in Colorado and Texas Using Passive Samplers. Journal of the Air & Waste Management Association 66(4): 412-419. doi:10.1080/10962247.2016.1141808.
+
+Mukerjee, S, LA Smith, ED Thoma, KD Oliver, DA Whitaker, T Wu, et al. (2016). Spatial analysis 
+of volatile organic compounds in South Philadelphia using passive samplers. Journal of the Air & 
+Waste Management Association, 66(5): 492–498. https://doi.org/10.1080/10962247.2016.1147505.
 
 Ward-Caviness, C, WE Kraus, C Blach, C Haynes, E Dowdy, ML Miranda, R Devlin, et al. (2015) Association of Traffic-Related Air Pollution with Fasting Plasma Glucose and Metabolic Risk Factors for Cardiovascular Disease. Environmental Health Perspectives, Advanced Publication (2015/03/15), http://dx.doi.org/10.1289/ehp.1306980.
 
@@ -48,7 +58,9 @@ Morisette, Jeffery, Siamak Khorram, Heather Cheshire, and Casson Stallings. 1996
 
 Brockhaus, JA, S Khorram, RI Bruck, MV Campbell, and C Stallings. 1992. A Comparison of Landsat TM and SPOT HRV Data for Use in the Development of Forest Defoliation Models. International Journal of Remote Sensing 13, no. 16: 3235–40. doi:10.1080/01431169208904114.
 
-Mitchell, BG, O Holm-Hansen, C Stallings, and DA Kiefer. 1987. RACER: Optical Prediction of Photobiological Properties. Antarctica Journal of the U.S.A. Review, pps. 145–47. 
+Mitchell, BG, O Holm-Hansen, C Stallings, and DA Kiefer. 1987. RACER: Optical Prediction of 
+Photobiological Properties. Antarctica Journal of the U.S.A. Review, pps. 145–47. https://s3.
+amazonaws.com/Antarctica/AJUS/AJUSvXXIIn5/AJUSvXXIIn5p145.pdf [downloads a PDF] 
 
 
 ## Conference Presentations ##
@@ -172,7 +184,9 @@ Stallings, Casson, Graham Glen, and Luther A Smith. 2000. CHAD User’s Guide: E
 
 Tippett, JA, G Glen, C Stallings, and LA Smith. 2000. APEX User’s Guide. US EPA.
 
-Stallings, Casson. 1997. The SWAT ArcView Interface User’s Guide (Version 0.9). Raleigh, NC: North Carolina State University. http://www4.ncsu.edu/users/c/cxs/www/index.html (no longer available).
+Stallings, Casson. 1997. The SWAT ArcView Interface User’s Guide (Version 0.9). Raleigh, NC: 
+North Carolina State University. http://www4.ncsu.edu/users/c/cxs/www/index.html [no longer 
+available].
 
 Stallings, Casson, William Branch, JA Moore, and Hugh A Devine. 1997. Introduction to ArcView 3.0. Materials for a GIS Workshop. Raleigh, NC: North Carolina State University.
 
