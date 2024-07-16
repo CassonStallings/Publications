@@ -28,7 +28,7 @@ https://doi.org/10.1016/j.atmosenv.2017.05.042.
 Eiselea, AP, S Mukerjee, LA Smith, ED Thomas, D Whitaker, K Oliver, T Wu, et al. 2016. Volatile 
 Organic Compounds at Two Oil and Natural Gas Production Well Pads in Colorado and Texas Using 
 Passive Samplers. Journal of the Air & Waste Management Association 66(4): 412-419.  
-https://doi.org/:10.1080/10962247.2016.1141808.
+https://doi.org/10.1080/10962247.2016.1141808.
 
 Mukerjee, S, LA Smith, ED Thoma, KD Oliver, DA Whitaker, T Wu, et al. (2016). Spatial analysis 
 of volatile organic compounds in South Philadelphia using passive samplers. Journal of the Air & 
